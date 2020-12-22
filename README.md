@@ -11,3 +11,6 @@ if there is more please let me know as i hope to also learn from you
 4. Results -- Interpretation is what you do here you make sense of the question you ask based on the result you get
 and Finally 5. Conclusion. 
 Thanks to Admond Lee for the Good Work He had done. Happy Learning
+
+
+Result could be made available to uses via presenting the analysis in a web app. 
